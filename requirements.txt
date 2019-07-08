@@ -1,0 +1,9 @@
+django
+mysqlclient
+djangorestframework
+celery
+ShopifyAPI
+requests
+gunicorn
+pymongo
+python-dateutil
